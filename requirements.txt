@@ -1,4 +1,4 @@
 streamlit
 pandas
 yfinance
-ta==0.10.2
+pandas-ta

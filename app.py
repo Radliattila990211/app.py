@@ -8,7 +8,7 @@ st.set_page_config(page_title="Forex Scalping Strategy", layout="wide")
 st.title("📈 Forex Scalping Strategy - 5 perces időtávon")
 
 # Devizapárok
-forex_pairs = ["EURUSD=X", "GBPUSD=X", "USDJPY=X", "AUDUSD=X", "USDCAD=X", "USDCHF=X", "NZDUSD=X", "EURGBP=X"]
+forex_pairs = ["EUR/USD=X", "GBP/USD=X", "USD/JPY=X", "AUD/USD=X", "USD/CAD=X", "USD/CHF=X", "NZD/USD=X", "EUR/GBP=X"]
 
 # Időintervallum lekérdezése
 end = datetime.now()

@@ -110,7 +110,7 @@ def main():
             continue
         analyze_and_plot(df, symbol)
 
-    st.info("Az adatok 5 percenként frissülnek az API korlátok miatt.") 
+    st.info("Az adatok 5 percenként frissülnek az API korlátok miatt.")
 
 if __name__ == "__main__":
     main()
